@@ -16,6 +16,7 @@ Und genau dafür sollte man stehen, nicht für das scheinbar "perfekte" Ergebnis
 (Menschen die selber Kunst erschaffen, haben schlechtere Berufschancen, da Arbeitgeber, um Geld zu sparen, auf KI zugreifen. Das trifft bei zum Beispiel Videospielen, Synchronsprechen, digitalen Design, Texten und allen weiteren Formen der Kunst auf.
 Auch bei der alltäglichen Nutzung von KI, zum Beispiel für Texte für die Homepage oder Plakate der SMV werden diese Platformen indirekt gefördert. Würde niemand generative KI benutzen, in den Medien nicht bald das Problem nicht mehr zwischen wahr und falsch unterscheiden zu können)
 
+# Generative KI verbraucht Energie 
 Kontakt (Email): keine_ki@liebt-dich.info
 
 <img width="752" height="200" alt="image" src="https://github.com/user-attachments/assets/a7807d12-24c3-4844-807c-a3bb7ea85055" />
