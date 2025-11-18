@@ -21,6 +21,7 @@ Auch bei der alltäglichen Nutzung von KI, zum Beispiel für Texte für die Home
 <img src="https://cdn-icons-png.flaticon.com/512/17717/17717699.png" alt="email" width="15"> keine_ki@liebt-dich.info
 
 
-<img width="752" height="200" alt="image" src="https://github.com/user-attachments/assets/27d9a8f3-e134-4794-b75c-2c62b0953530" />
+<img width="640" height="200" alt="image" src="https://github.com/user-attachments/assets/27d9a8f3-e134-4794-b75c-2c62b0953530" />
+<img width="640" height="280" alt="image" src="https://github.com/user-attachments/assets/e91244af-a6e7-448f-a241-1fd81fb9ed51" />
 
 
