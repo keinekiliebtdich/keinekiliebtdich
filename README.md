@@ -1,9 +1,14 @@
-# Keine KI liebt dich
-Immer wieder treffen wir mitlerweile im Altag auf generative KI, doch was ist das überhaupt und was ist das Problem daran?
+# Keine KI* liebt dich
+Immer wieder treffen wir mitlerweile im Altag auf generative KI, doch was ist das überhaupt und was ist das Problem daran?  
+  
+**Im Folgenden wird immer wieder von "KI" gesprochen werden. In diesem Falle meinen wir mit dieser Bezeichnung ausschließlich GENERATIVE Künstliche Intelligenz, welche versucht Dinge zu ersetzen, von denen niemand wollte, dass sie ersetzt werden und Möglichkeiten zerstört anstelle neue zu schaffen oder diese zu fördern.  
+Anderwertige KI schlängelt sich schon seit Jahrzehnten durch unseren Alltag und ist eine wichtige Basis für viele heutige Technologien. Diese gefährdet allerdings werder die Kunst, noch unsere Zukunft. Auch z.B. in der Medizin können manche Formen der KI für gewaltige Fortschritte eingesetzt werden.  
+"Künstliche Intelligenz" an sich, schadet uns nicht. Es ist der _generative_ Aspekt.**
 
+## 
 Die meisten komerziellen KI-Modelle sind auf Daten aus dem Internet trainiert. Meistens nutzen diese dabei auch Daten, für welche sie Datenschutzrechtlich keine Erlaubnis haben. Darunter befinden sich unter anderem alle im Internet veröffentlichte Texte, sowie jedes dort zu findende Bild. Damit "klauen" sie quasi direkt die Werke von Menschen. (Häufig genutzte KIs, welche sich dieser Technik bedienen sind z.B. Chat-GPT, Gemini, Grok & Midjourney)
 
-# Generative KI gefährdet die Kunst
+## KI gefährdet die Kunst
 Durch das Verweden von KI stirbt die Kreativität. Viele machen es sich einfach und Nutzen KI, anstatt etwas aus ihren eigenen Gedanken zu erschaffen.
 Zusätzlich werden von KI immer mehr Berufe gefährdet, vor allem solche in kreativen Bereichen (sei es Autor, Maler, Dichter, Musiker, etc.). Unsere Schule ist gefüllt mit kreativen Schülern und Schülerinnen, von denen sicher kein zu kleiner Anteil von solchen Jobs träumt. Unterstützen wir KI generierte “Kunst” helfen wir als Schule regelrecht diese “auszulöschen”. (Auch wenn das wohl ein bisschen dramatisch ausgedrückt ist)
 Auch Schülern, die solche Tätigkeiten nur als Hobby verfolgen, können beeinträchtigt sein.
@@ -16,7 +21,7 @@ Und genau dafür sollte man stehen, nicht für das scheinbar "perfekte" Ergebnis
 (Menschen die selber Kunst erschaffen, haben schlechtere Berufschancen, da Arbeitgeber, um Geld zu sparen, auf KI zugreifen. Das trifft bei zum Beispiel Videospielen, Synchronsprechen, digitalen Design, Texten und allen weiteren Formen der Kunst auf.
 Auch bei der alltäglichen Nutzung von KI, zum Beispiel für Texte für die Homepage oder Plakate der SMV werden diese Platformen indirekt gefördert. Würde niemand generative KI benutzen, in den Medien nicht bald das Problem nicht mehr zwischen wahr und falsch unterscheiden zu können)
 
-# Generative KI verbraucht Energie 
+## KI verbraucht Energie 
 <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="instagram" width="15"/> [@keinekiliebtdich](https://www.instagram.com/keinekiliebtdich/)  
 <img src="https://cdn-icons-png.flaticon.com/512/17717/17717699.png" alt="email" width="15"> keine_ki@liebt-dich.info
 
