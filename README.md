@@ -27,7 +27,7 @@ Laut einer Studie des MIT (Massachusetts Institute of Technology) haben Menschen
 [[Quelle]](https://time.com/7295195/ai-chatgpt-google-learning-school/)
 
 ## KI verbraucht Energie 
-<text>
+<text biztze>
 
 ## Künstlerstimmen
 Auch zahlreiche bekannte Künstler sprechen sich gegen KI aus, im Folgenden nur ein paar Beispiele.
