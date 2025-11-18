@@ -17,6 +17,10 @@ Und genau dafür sollte man stehen, nicht für das scheinbar "perfekte" Ergebnis
 Auch bei der alltäglichen Nutzung von KI, zum Beispiel für Texte für die Homepage oder Plakate der SMV werden diese Platformen indirekt gefördert. Würde niemand generative KI benutzen, in den Medien nicht bald das Problem nicht mehr zwischen wahr und falsch unterscheiden zu können)
 
 # Generative KI verbraucht Energie 
-Kontakt (Email): keine_ki@liebt-dich.info
+<img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="instagram" width="15"/> [@keinekiliebtdich](https://www.instagram.com/keinekiliebtdich/)  
+<img src="https://cdn-icons-png.flaticon.com/512/17717/17717699.png" alt="email" width="15"> keine_ki@liebt-dich.info
 
-<img width="752" height="200" alt="image" src="https://github.com/user-attachments/assets/a7807d12-24c3-4844-807c-a3bb7ea85055" />
+
+<img width="752" height="200" alt="image" src="https://github.com/user-attachments/assets/27d9a8f3-e134-4794-b75c-2c62b0953530" />
+
+
